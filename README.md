@@ -1,5 +1,5 @@
 # assignment2-sanchez
 
 # Martin Sanchez
-###### A&G
+### A&G
 The **restaurant** is around some other **stores**, but not surrounded by many things.<br>
