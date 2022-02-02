@@ -18,3 +18,10 @@ How to get there?
 5. At the traffic circle, take the 2nd exit onto Beirut Circle Entrance.
 6. Exit the traffic circle onto Beirut Circle Entrance.
 7. You get to your desired terminal.
+
+Foods items that I would recommend for others:
+* Hy-Vee Chinesse
+* A&G Restaurant
+* Dairy Queen Grill & Chill
+* Taco Bell
+* Sonic
