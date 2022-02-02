@@ -8,7 +8,7 @@ I am part of the tennis team, and we start the season on February 18th.<br>
 
 -----
 
-## Recomendations
+## Tables
 
 There are many sports or activities that people should try, they all have different costs, but they are really good and needed for our heath.
 
@@ -19,3 +19,9 @@ There are many sports or activities that people should try, they all have differ
 | Tennis | In a tennis club, or a park |    $200 - $350 |
 | Volleyball | Park, pool, gym |    $150 - $320 |
 
+-----
+
+## Quotes
+
+> Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.> _Samuel Beckett_
+>Never bend your head. Always hold it high. Look the world straight in the eye.> _Hellen Keller_
