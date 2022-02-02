@@ -10,7 +10,7 @@ I am part of the tennis team, and we start the season on February 18th.<br>
 
 ## Recomendations
 
-Here are some sport or activities that I think people should try, which are really good for our heath.
+There are many sports or activities that people should try, they all have different costs, but they are really good and needed for our heath.
 
 |Sport   |     Where can be played?     |  Cost |
 |:----------:|:-------------:|:------:|
