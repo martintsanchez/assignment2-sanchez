@@ -77,6 +77,8 @@ struct point2d {
 point2d operator*(ftype a, point2d b) {
     return b * a;
 }
-~~~
+
 <https://cp-algorithms.com/geometry/basic-geometry.html>
+~~~
+
 
