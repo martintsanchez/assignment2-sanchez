@@ -23,5 +23,7 @@ There are many sports or activities that people should try, they all have differ
 
 ## Quotes
 
-> Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.> _Samuel Beckett_
->Never bend your head. Always hold it high. Look the world straight in the eye.> _Hellen Keller_
+> Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+> _Samuel Beckett_
+>Never bend your head. Always hold it high. Look the world straight in the eye.
+> _Hellen Keller_
